@@ -1,2 +1,6 @@
 html{background: #323232; }
-h3, h4{color: #6AE456;margin-bottom: 10px}
+.jhk__grid h1, .jhk__grid p{color: #6AE456 !important}
+.uk-card-default.uk-card-hover:hover {
+	background-color:#fff;
+	box-shadow:5px 5px 35px 5px #5BC3EA;cursor: pointer;
+}
