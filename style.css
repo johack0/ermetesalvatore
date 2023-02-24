@@ -4,3 +4,9 @@ html{background: #323232; }
 	background-color:#fff;
 	box-shadow:5px 5px 35px 5px #5BC3EA;cursor: pointer;
 }
+
+
+.uk-margin-small-bottom.uk-margin-small-top {
+  color: #6AE456;
+  text-shadow: 2px 2px 2px #000;
+}
